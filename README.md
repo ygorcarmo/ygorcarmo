@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on **Golang, Nodejs, Docker, ReactJs, Cloud Computing**<br>🌱 I’m currently learning **Linux and Kubernetes :)**<br>👯 I’m looking to collaborate on open source projects.<br>🤔 I’m looking for help with my coffee :)<br>📫 How to reach me: Linkedin/ygorcarmo<br>⚡ Hobbies: Iot, gardening, and travelling 
+🔭 I’m currently working on **Golang, Nodejs, Docker, ReactJs, Cloud Computing**<br>🌱 I’m currently learning **Linux and Kubernetes :)**<br>👯 I’m looking to collaborate on open source projects.<br>📫 How to reach me: Linkedin/ygorcarmo<br>⚡ Hobbies: Iot, gardening, and travelling 
 
 
 ## 🌐 Socials & Counter:
