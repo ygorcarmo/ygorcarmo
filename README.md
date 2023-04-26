@@ -8,7 +8,7 @@
 - ⚡ Hobbies: Iot, gardening, and travelling 
 
 
-## 🌐 Socials & Counter:
+## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ygor-carmo-bb1bb9125)
  
  
