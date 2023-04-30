@@ -18,9 +18,13 @@
 
 -->
 
+<!--
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ygorcarmo&theme=dark&hide_border=false)
+
+-->
 
 <!--
 **ygorcarmo/ygorcarmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
